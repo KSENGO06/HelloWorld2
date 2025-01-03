@@ -1,19 +1,15 @@
-//
-//  ViewController.swift
-//  HelloWorld2
-//
-//  Created by Oksana on 01.01.2025.
-//
+
 
 import UIKit
 
-class ViewController: UIViewController {
+final class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
     }
 
 
 }
+
 
